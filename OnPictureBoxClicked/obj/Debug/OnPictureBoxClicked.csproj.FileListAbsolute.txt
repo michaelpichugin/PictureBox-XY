@@ -1,0 +1,21 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.exe.config
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.pdb
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.exe.config
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.exe
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Debug\OnPictureBoxClicked.pdb
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csprojResolveAssemblyReference.cache
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.Properties.Resources.resources
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csproj.GenerateResource.Cache
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.csproj.CoreCompileInputs.cache
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.exe
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.pdb
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.frmHome.resources
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Debug\OnPictureBoxClicked.frmOpening.resources

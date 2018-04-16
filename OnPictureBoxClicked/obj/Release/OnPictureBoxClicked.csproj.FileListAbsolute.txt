@@ -1,0 +1,10 @@
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Release\OnPictureBoxClicked.exe.config
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Release\OnPictureBoxClicked.exe
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\bin\Release\OnPictureBoxClicked.pdb
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.frmHome.resources
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.frmOpening.resources
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.Properties.Resources.resources
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.csproj.GenerateResource.Cache
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.csproj.CoreCompileInputs.cache
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.exe
+D:\Документы\Code\OnPictureBoxClicked\OnPictureBoxClicked\obj\Release\OnPictureBoxClicked.pdb
